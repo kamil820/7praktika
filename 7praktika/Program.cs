@@ -10,6 +10,7 @@ namespace _7praktika
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
